@@ -37,4 +37,4 @@ Genel olarak, model tüm sınıflarda dengeli ve başarılı bir performans serg
 
 # Linkler
 
-???
+https://www.kaggle.com/code/hamdigulle/akbank-derin-renme-bootcamp-projesi
